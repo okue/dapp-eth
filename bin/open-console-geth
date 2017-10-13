@@ -6,4 +6,5 @@ geth --networkid "1234"\
      --rpc --rpcaddr "localhost"\
      --rpcport "8545"\
      --rpccorsdomain "*"\
+     --mine --minerthreads "1"\
      console 2>> eth_private/geth_err.log
