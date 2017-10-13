@@ -1,4 +1,4 @@
-pragma solidity ^0.4.16;
+pragma solidity ^0.4.15;
 contract SendEth {
   function sendTest(){
     address a = 0x2ab9868fb0903c5029e0cc3914b0e51333c51571; //送信先のアドレスの指定
