@@ -12,5 +12,6 @@ $ truffle compile
 $ truffle deploy
 $ truffle console
 > HelloWorld.deployed().then(x => x.get() )
+'HelloWorld!!'
 ```
 
