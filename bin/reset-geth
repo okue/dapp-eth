@@ -1,0 +1,13 @@
+#! /usr/bin/env sh
+
+cd `dirname $0`
+
+rm -rf eth_private/geth
+echo 'delete geth'
+
+rm     eth_private/geth_err.log
+echo 'delete geth_err.log'
+
+rm     eth_private/history
+echo 'delete history'
+
