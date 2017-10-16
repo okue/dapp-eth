@@ -1,0 +1,4 @@
+eth_private/geth
+eth_private/geth_err.log
+eth_private/history
+build
