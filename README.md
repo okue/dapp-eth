@@ -8,11 +8,6 @@ $ ./bin/open-console
 ```
 
 
-## ./aneve
-
-***Aneve*** is an abbreviation for **Anonymous E-Voting system on Ethereum**.
-
-
 ## ./sampleproject
 
 ```sh
