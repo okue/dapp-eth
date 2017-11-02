@@ -1,6 +1,5 @@
 # dapp-eth
 
-
 ```sh
 $ ./bin/init-network
 $ ./bin/open-console
@@ -9,7 +8,12 @@ $ ./bin/open-console
 ```
 
 
-## sampleproject
+## ./aneve
+
+***Aneve*** is an abbreviation for **Anonymous E-Voting system on Ethereum**.
+
+
+## ./sampleproject
 
 ```sh
 $ truffle compile
