@@ -33,3 +33,7 @@ $ truffle console
 { [String: '100'] s: 1, e: 2, c: [ 100 ] }
 ```
 
+## .truffle.bash
+
+`.truffle.bash` is a bash-completion setting file for truffle command.
+
