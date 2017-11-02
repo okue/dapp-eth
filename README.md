@@ -8,6 +8,9 @@ $ ./bin/open-console
 > miner.start()
 ```
 
+
+## sampleproject
+
 ```sh
 $ truffle compile
 $ truffle deploy
